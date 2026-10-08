@@ -7,7 +7,7 @@
 I grew up obsessed with dragonflies and rockets, so I studied aeronautical engineering to build things that fly.
 Then I found out software flies faster.
 
-Now I write software by day and I'm a co-founder & CTO by night, building AI that has to survive the real world, not just a demo.
+Now I'm a co-founder & CTO, building AI that has to survive the real world, not just a demo.
 
 **On approach:** **Dashlytics** turns raw business data into dashboards that tell you what's working, what needs attention, and what you're missing · **Mythos** helps you pitch and tell stories people remember.
 

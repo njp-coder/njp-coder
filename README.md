@@ -1,107 +1,25 @@
-# Hi there 👋 I'm Nagajyothi Prakash (NJPX)
+<div align="center">
 
-### CTO • AI Systems Builder • Full-Stack Engineer
+<img src="assets/hud.svg" width="100%" alt="NJPX flight deck — Nagajyothi Prakash, aeronautical engineer turned CTO"/>
 
-I build AI-powered systems focused on real-world intelligence — combining computer vision, multimodal AI, automation, and scalable product engineering.
+</div>
 
-Currently exploring and building across:
+I grew up obsessed with dragonflies and rockets, so I studied aeronautical engineering to build things that fly.
+Then I found out software flies faster.
 
-*  Agent AI & Autonomous Workflows
-*  Computer Vision & Video Intelligence
-*  Real-time Surveillance & Behavioral Analysis
-*  Multimodal AI Systems
-*  Full-stack Platforms with React, Next.js & FastAPI
-*  Scalable AI Infrastructure & Deployments
-*  Developer Tools & AI-assisted Engineering
+Now I write software by day and I'm a co-founder & CTO by night, building AI that has to survive the real world, not just a demo.
 
----
+**On approach:** **Dashlytics** turns raw business data into dashboards that tell you what's working, what needs attention, and what you're missing · **Mythos** helps you pitch and tell stories people remember.
 
-## 🚀 What I’m Building
+<div align="center">
 
-### Agent AI Systems
+<img src="assets/departures.svg" width="100%" alt="Departures board — my most recent builds, updated daily"/>
 
-Experimenting with multi-agent systems using:
+<sub>The board updates itself every day from my repos. If it says IN FLIGHT, I touched it this week.</sub>
 
-* FastAPI
-* LangGraph
-* LlamaIndex
-* Vertex AI
-* Gemini
-* Redis + Celery
-* Vector Search & RAG pipelines
+<br/><br/>
 
-### Developer & Productivity Tools
+[![site](https://img.shields.io/badge/nagajyothiprakash.com-0b0b0c?style=for-the-badge&logoColor=FF914D&labelColor=0b0b0c&color=FF914D)](https://nagajyothiprakash.com/)
+<!-- add more comms channels here, e.g. LinkedIn / X / Instagram badges -->
 
-Exploring tools for:
-
-* Automated documentation
-* Internal developer platforms
-* AI-assisted workflows
-* Video understanding systems
-* Code intelligence
-
----
-
-## 🧰 Tech Stack
-
-### Frontend
-
-* React
-* Next.js
-* React Native
-* Tailwind CSS
-* TypeScript
-
-### Backend
-
-* FastAPI
-* Node.js
-* Python
-* PostgreSQL
-* Redis
-
-### AI / ML
-
-* PyTorch
-* TensorFlow
-* YOLOv8
-* MediaPipe
-* OpenCV
-* Vertex AI
-* LangChain
-* LlamaIndex
-
-### Infrastructure
-
-* Docker
-* Kubernetes
-* AWS
-* GCP
-* Firebase
-* WebSockets
-
----
-
-## 🌱 Currently Learning
-
-* Multimodal reasoning systems
-* Scalable AI infrastructure
-* AI-native product design
-* Distributed agent orchestration
-
----
-
-## 📌 Philosophy
-
-> Build systems that solve meaningful problems in the physical world.
-
-I enjoy building ambitious systems from scratch, rapidly prototyping ideas, and turning complex AI concepts into usable products.
-
----
-
-## 📫 Let’s Connect
-
-* LinkedIn: *https://www.linkedin.com/in/nagajyothiprakash/*
-* Twitter/X: *https://x.com/njpCoder*
-* Portfolio: *https://nagajyothiprakash.com/*
-
+</div>

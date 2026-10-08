@@ -20,6 +20,7 @@ Now I'm a co-founder & CTO, building AI that has to survive the real world, not 
 <br/><br/>
 
 [![site](https://img.shields.io/badge/nagajyothiprakash.com-0b0b0c?style=for-the-badge&logoColor=FF914D&labelColor=0b0b0c&color=FF914D)](https://nagajyothiprakash.com/)
-<!-- add more comms channels here, e.g. LinkedIn / X / Instagram badges -->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0b0b0c?style=for-the-badge&logo=linkedin&logoColor=FF914D)](https://www.linkedin.com/in/nagajyothiprakash)
+[![x](https://img.shields.io/badge/@njpCoder-0b0b0c?style=for-the-badge&logo=x&logoColor=FF914D)](https://x.com/njpCoder)
 
 </div>

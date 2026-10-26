@@ -41,7 +41,7 @@
 <g clip-path="url(#typeClip)"><text x="40" y="186" class="typed">&gt; building AI systems that work in the real world</text></g>
 <rect class="caret" x="456.04999999999995" y="173" width="8" height="16" fill="#FF914D"/>
 <line x1="40" y1="222" x2="470" y2="222" stroke="#2a2a2e"/>
-<text x="40" y="250" class="stat">BUILDS LOGGED <tspan class="v">11</tspan>   ·   LAST FLIGHT <tspan class="v">18D AGO</tspan>   ·   ACTIVE THIS MONTH <tspan class="v">2</tspan></text>
+<text x="40" y="250" class="stat">BUILDS LOGGED <tspan class="v">11</tspan>   ·   LAST FLIGHT <tspan class="v">19D AGO</tspan>   ·   ACTIVE THIS MONTH <tspan class="v">2</tspan></text>
 
 <!-- right: attitude indicator -->
 <g class="hud">
